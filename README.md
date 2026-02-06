@@ -1,4 +1,5 @@
-# Student Performance Analyzer :- A Data Analytics & Business Intelligence Project using Excel and Power BI
+# Capstone Project -
+         # Student Performance Analyzer :- A Data Analytics & Business Intelligence Project using Excel and Power BI
 
 # Project Overview
 The Student Performance Analyzer is a data analytics project designed to evaluate and visualize student academic performance using Excel and Power BI. The project focuses on identifying trends, performance gaps, and key factors influencing student outcomes to support data-driven academic decisions.
